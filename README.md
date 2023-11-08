@@ -19,5 +19,5 @@ Once you share your dream, we envision it and then bring it to life with the lat
 
 ### A small 🐍 game on my commit's 😉
 
-![GitHub Snake Light](https://github.com/aqiawan01/aqiawan01/blob/master/github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/aqiawan01/aqiawan01/blob/master/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/aqiawan01/aqiawan01/blob/main/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/aqiawan01/aqiawan01/blob/main/github-snake-dark.svg#gh-dark-mode-only)
